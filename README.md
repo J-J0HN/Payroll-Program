@@ -1,1 +1,5 @@
-A simple payroll program that calculates various taxes and benefits and gives result of end of year gross and net income based off of hourly pay and hours worked.
+TODO: 
+- update to current rates if needed
+- add tests
+- provide interface
+- host & deploy for anyone to use easily
